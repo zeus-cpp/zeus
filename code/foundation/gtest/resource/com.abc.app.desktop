@@ -1,0 +1,10 @@
+[Desktop Entry]
+ Categories=Office
+ Comment=Description in English
+ Comment[zh_CN]=中文描述
+ Exec=/opt/apps/com.abc.app/files/abc.app
+ Icon=/opt/apps/com.abc.app/entries/icons/hicolor/256x256/apps/com.abc.app.png
+ Name=com.abc.app
+ Name[zh_CN]=应用名abc中文
+ Terminal=false
+ Type=Application
